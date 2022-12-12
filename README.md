@@ -3,4 +3,4 @@
 
 Nuclei template using for joomla
 
-Các CVE hầu hết đều bắt buộc phải đăng nhập nên khi chạy nuclei ta chạy với flag -V username=[username] passwd=[passwd]
+Các CVE hầu hết khi exploit đều bắt buộc phải đăng nhập nên khi chạy nuclei ta chạy với flag -V username=[username] passwd=[passwd]
